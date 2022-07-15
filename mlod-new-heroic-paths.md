@@ -151,7 +151,7 @@ Mastering your second sight, you now have greater agency as to what your visions
 
 _Prerequisite: Minimum level of 16 and the Seer Sight (Present) heroic path feat._
 
-You can peer through possible futures and magically pull one of them into events around you, ensuring a particular outcome. When you or a creature you can see within 60 feet of you makes an attack roll, an ability check, or a saving throw, you can use your reaction to ignore the die roll and decide whether the number rolled is the minimum needed to succeed or one less than that number (your choice). When you use this feature, you gain one level of exhaustion. Only by finishing a long rest can you remove a level of exhaustion gained in this way. You must also roll a CON Saving throw at DC 12 + (exhaustion level X 3) or be incapacitated.
+You can peer through possible futures and magically pull one of them into events around you, ensuring a particular outcome. When you or a creature you can see within 60 feet of you makes an attack roll, an ability check, or a saving throw, you can use your reaction to ignore the die roll and decide whether the number rolled is the minimum needed to succeed or one less than that number (your choice). When you use this feature, you gain one level of exhaustion. Only by finishing a long rest can you remove a level of exhaustion gained in this way. This ability can be used once per long rest.
 
 ---
 
