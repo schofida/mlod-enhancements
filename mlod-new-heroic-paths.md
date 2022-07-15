@@ -22,7 +22,7 @@ You are a massive member of his own species, but your heritage does not unlock i
 
 (GIANTBLOODED heroic path feat)
 
-_Prerequisite: Minimum level of 4 and the Gigantism giantblooded heroic path feat._
+_Prerequisite: Minimum level of 4 and the Giant-Kin giantblooded heroic path feat._
 
 Part of your heritage is your capability to become a living siege engine, throwing rocks that lesser beings would be hard put to even lift. So long as you have loose boulders, broken masonry, or even the bodies of your foes about you, you will never lack for ammunition. You gain the following benefits:
 
@@ -58,7 +58,7 @@ You are now a towering presence. Growing over 8 feet tall, you are massive enoug
 
 (GIANTBLOODED heroic path feat)
 
-_Prerequisite: Minimum level of 12 and the Towering Presence giantblooded heroic path feat._
+_Prerequisite: Minimum level of 12 and the Enormous Size giantblooded heroic path feat._
 
 Over time, you learn to master your oversized frame and can propel yourself with long strides. You gain the following benefits:
 
