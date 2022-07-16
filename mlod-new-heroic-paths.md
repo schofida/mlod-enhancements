@@ -10,7 +10,7 @@ A rare hero in the world of Aryth is known as giantblooded, though it is dispute
 
 _Prerequisite: Have not selected feats from a different heroic path Only humans and orcs may select this feat._
 
-You are a massive member of his own species, but your heritage does not unlock immediately. Your body must be tempered and your blood tested before it begins to express the raw power within. You gain the following benefits:
+You are a massive member of your own species, but your heritage does not unlock immediately. Your body must be tempered and your blood tested before it begins to express the raw power within. You gain the following benefits:
 
 - You increase your height to at least 6 ft and weight to at least 250 pounds.
 - You gain the powerful build feature where you count as one size larger when determining your carrying capacity or the weight you can push, drag, or lift. You also count as one size larger with regards to the shove and grapple attack actions.
