@@ -172,7 +172,7 @@ There are many in the lands of Aryth who are born with the spark of magic within
 
 _Prerequisite: Have not selected feats from a different heroic path. Cannot be a class that can (or will be able to) perform spell casting of first level spells or higher._
 
-You have a number of raw energy points equal to your Intelligence, Wisdom, or Charisma modifier, whichever is highest + your proficiency bonus. If a spell is being cast within 30 ft. of you, as a reaction, you may spend raw energy equal to the spell level cast. If done, the original spell caster retains their spell slot. You must have enough raw energy points to cover the spell cost. Raw energy is recovered after a long rest.
+You gain 2 raw energy points. If a spell is being cast within 30 ft. of you, as a reaction, you may spend raw energy equal to the spell level cast. If done, the original spell caster retains their spell slot. You must have enough raw energy points to cover the spell cost. Raw energy is recovered after a long rest.
 
 ---
 
@@ -188,6 +188,8 @@ You are able to use your awareness of magic to shift and shape spells cast in th
 - Extend Spell - When a spell is cast that has a duration of 1 minute or longer, you can spend 1 raw energy point to double its duration, to a maximum duration of 24 hours.
 - Reduce Spell - You can spend 1 raw energy point to reduce a spell. All variable, numeric effects of a reduced spell are decreased by 1 die. Spell range is reduced by half. If spell affects an area, reduce the affected area by 5 ft (e.g. Fireball will only affect a 15 ft radius). Saving throws and opposed rolls (such as that made to overcome spell resistance) are not affected. Spells without random variables are not affected.
 
+In addition, you also gain 2 additional raw energy points
+
 ---
 
 ### **Spell Attraction**
@@ -199,6 +201,7 @@ _Prerequisite: Minimum level of 8 and the Metamagic Aura (Lesser) heroic path fe
 Your metamagic aura has strengthened and offers greater protection at
 the cost of hungering for more magic. You gain the following benefits:
 
+- You gain 2 additional raw energy points.
 - Increase an ability score of your choice by 1, to a maximum of 20.
 - You gain proficiency in saving throws using the chosen ability.
 - Your metamagic aura gains the following benefit:
@@ -214,6 +217,7 @@ _Prerequisite: Minimum level of 12 and the Spell Attraction heroic path feat._
 
 Your metamagic aura is now strong enough to empower spells to truly terrifying heights. Your metamagic aura gains the following benefits:
 
+- You gain 2 additional raw energy points.
 - Heighten Spell - When a spell is cast within 30 ft. of you that forces a creature to make a saving throw to resist its effects, you can spend 3 raw energy points to give 1 target of the spell disadvantage on its first saving throw made against the spell.
 - Twinned Spell - When a spell is cast within 30 ft. of you that targets only 1 creature and doesn't have a range of self, you can spend a number of raw energy points equal to the spell's level (minimum of 1) to target a second creature in range with the same spell. To be eligible, a spell must be incapable of targeting more than 1 creature at the spell's current level.
 
@@ -227,4 +231,5 @@ _Prerequisite: Minimum level of 16 and the Metamagic Aura (Greater) heroic path 
 
 You have mastered your metamagic aura and you now have the ability to bend spells to your whims. Your metamagic aura gains the following benefit:
 
+- You gain 2 additional raw energy points.
 - Redirect Spell - When a spell is cast within 30 ft. of you, you can use 5 raw energy points to redirect the spell to another target. In order for this ability to work, the spell must have a target (although the target can be an area, such as a fireball) other than the spell caster.
