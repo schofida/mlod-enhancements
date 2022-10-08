@@ -188,7 +188,7 @@ You are able to use your awareness of magic to shift and shape spells cast in th
 - Extend Spell - When a spell is cast that has a duration of 1 minute or longer, you can spend 1 raw energy point to double its duration, to a maximum duration of 24 hours.
 - Reduce Spell - You can spend 1 raw energy point to reduce a spell. All variable, numeric effects of a reduced spell are decreased by 1 die. Spell range is reduced by half. If spell affects an area, reduce the affected area by 5 ft (e.g. Fireball will only affect a 15 ft radius). Saving throws and opposed rolls (such as that made to overcome spell resistance) are not affected. Spells without random variables are not affected.
 
-In addition, you also gain 2 additional raw energy points
+You also gain 2 additional raw energy points
 
 ---
 
