@@ -180,13 +180,13 @@ You gain 2 raw energy points. If a spell is being cast within 30 ft. of you, as 
 
 _Prerequisite: Minimum level of 4 and the Untapped Potential heroic path feat._
 
-You are able to use your awareness of magic to shift and shape spells cast in the area around you. This ability manifests itself in various forms of metamagic that you can use to alter spells as they are cast. Some of the abilities can be used to enhance the spells cast by your allies, while others can be used to weaken or even nullify spells cast by your enemies. Any time a spell is cast within 30 ft. of you, you can choose, as a reaction, to use any metamagic ability you have access to in this heroic path to modify the spell. You can target any spell whose level is equal to or less than half your character level (rounded down). You must know that a spell is being cast to use this ability. Thus, you could not affect a silent spell being cast by an invisible opponent. Quickened spells and other spell-like abilities cannot be modified by this ability. You do not need to know which spell is being cast in order to affect it, although it is helpful. You may identify the spell by making a successful intelligence (Arcana) check (DC 15 + spell level). If unsuccessful, you may still attempt to modify the spell, but the effects applied may be helpful, superfluous, or dangerous, depending on the actual spell. Knowing what spell is being cast is a tactical factor, but in no way affects your ability; for instance, allied casters might explain a round ahead of time that they are going to cast a fireball, and that they want you to empower it. If the casters change their mind and casts a lightning bolt instead, your ability would still empower it. The following abilities can be applied to a spell via your metamagic aura:
+You are able to use your awareness of magic to shift and shape spells cast in the area around you. You gain the following benefits.
 
-- Enlarge Spell - When damage is rolled for a spell, you can spend one raw energy point to have the caster re-roll a number of the damage dice up to your Charisma, Intelligence or Wisdom modifier (minimum of 1). The caster must use the new rolls.
-- Extend Spell - When a spell is cast that has a duration of one minute or longer, you can spend one raw energy point to double its duration, to a maximum duration of 24 hours.
-- Reduce Spell - You can spend one raw energy point to reduce a spell. All variable, numeric effects of a reduced spell are decreased by 1 die. Spell range is reduced by half. If spell affects an area, reduce the affected area by 5 ft (e.g. Fireball will only affect a 15 ft radius). Saving throws and opposed rolls (such as that made to overcome spell resistance) are not affected. Spells without random variables are not affected.
-
-You also gain 2 additional raw energy points
+- Your maximum raw energy points has now increased to 4.
+- This ability manifests itself in various forms of metamagic that you can use to alter spells as they are cast. Some of the abilities can be used to enhance the spells cast by your allies, while others can be used to weaken or even nullify spells cast by your enemies. Any time a spell is cast within 30 ft. of you, you can choose, as a reaction, to use any metamagic ability you have access to in this heroic path to modify the spell. You can target any spell whose level is equal to or less than half your character level (rounded down). You must know that a spell is being cast to use this ability. Thus, you could not affect a silent spell being cast by an invisible opponent. Quickened spells and other spell-like abilities cannot be modified by this ability. You do not need to know which spell is being cast in order to affect it, although it is helpful. You may identify the spell by making a successful intelligence (Arcana) check (DC 15 + spell level). If unsuccessful, you may still attempt to modify the spell, but the effects applied may be helpful, superfluous, or dangerous, depending on the actual spell. Knowing what spell is being cast is a tactical factor, but in no way affects your ability; for instance, allied casters might explain a round ahead of time that they are going to cast a fireball, and that they want you to empower it. If the casters change their mind and casts a lightning bolt instead, your ability would still empower it. The following abilities can be applied to a spell via your metamagic aura:
+  - Enlarge Spell - When damage is rolled for a spell, you can spend one raw energy point to have the caster re-roll a number of the damage dice up to your Charisma, Intelligence or Wisdom modifier (minimum of 1). The caster must use the new rolls.
+  - Extend Spell - When a spell is cast that has a duration of one minute or longer, you can spend one raw energy point to double its duration, to a maximum duration of 24 hours.
+  - Reduce Spell - You can spend one raw energy point to reduce a spell. All variable, numeric effects of a reduced spell are decreased by 1 die. Spell range is reduced by half. If spell affects an area, reduce the affected area by 5 ft (e.g. Fireball will only affect a 15 ft radius). Saving throws and opposed rolls (such as that made to overcome spell resistance) are not affected. Spells without random variables are not affected.
 
 ---
 
@@ -199,7 +199,7 @@ _Prerequisite: Minimum level of 8 and the Metamagic Aura (Lesser) heroic path fe
 Your metamagic aura has strengthened and offers greater protection at
 the cost of hungering for more magic. You gain the following benefits:
 
-- You gain 2 additional raw energy points.
+- Your maximum raw energy points has now increased to 6.
 - Increase an ability score of your choice by 1, to a maximum of 20.
 - You gain proficiency in saving throws using the chosen ability.
 - Your metamagic aura gains the following benefit:
@@ -215,7 +215,7 @@ _Prerequisite: Minimum level of 12 and the Spell Attraction heroic path feat._
 
 Your metamagic aura is now strong enough to empower spells to truly terrifying heights. Your metamagic aura gains the following benefits:
 
-- You gain 2 additional raw energy points.
+- Your maximum raw energy points has now increased to 8.
 - Heighten Spell - When a spell is cast within 30 ft. of you that forces a creature to make a saving throw to resist its effects, you can spend 3 raw energy points to give one target of the spell disadvantage on its first saving throw made against the spell.
 - Twinned Spell - When a spell is cast within 30 ft. of you that targets only one creature and doesn't have a range of self, you can spend a number of raw energy points equal to the spell's level (minimum of 1) to target a second creature in range with the same spell. To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level.
 
@@ -229,5 +229,5 @@ _Prerequisite: Minimum level of 16 and the Metamagic Aura (Greater) heroic path 
 
 You have mastered your metamagic aura and you now have the ability to bend spells to your whims. Your metamagic aura gains the following benefit:
 
-- You gain 2 additional raw energy points.
+- Your maximum raw energy points has now increased to 10.
 - Redirect Spell - When a spell is cast within 30 ft. of you, you can use 5 raw energy points to redirect the spell to another target. In order for this ability to work, the spell must have a target (although the target can be an area, such as a fireball) other than the spell caster.
