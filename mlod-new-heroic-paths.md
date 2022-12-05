@@ -63,7 +63,7 @@ Over time, you learn to master your oversized frame and can propel yourself with
 
 - Your strength increases by 1, to a maximum of 20.
 - Your speed increases by 10
-- If you move at least 10 feet in a straight line immediately before hitting with an attack as part of the Attack Action on your turn, you gain a +1d8 bonus to the attack’s damage roll and you can push the target up to 10 feet, provided the target you want to push is one or more sizes smaller than you. You can use this benefit only once on each of your turns.
+- If you move at least 10 feet in a straight line immediately before hitting with a melee attack as part of the Attack Action on your turn, you gain a +1d8 bonus to the attack’s damage roll. If the target is one or more sizes smaller than you, you can also push the target up to 10 feet in addition to the extra damage. You can use this benefit only once on each of your turns.
 
 ---
 
@@ -78,7 +78,6 @@ The blood of giants have fully taken hold within you, turning you into a veritab
 - Your size is now huge
 - Increase your reach by 5
 - Once on each of your turns, one of your attacks with a melee weapon can deal an extra 2d6 damage to a target on a hit, provided your weapon has the Heavy property.
-- When you are subjected to an effect that would move you at least 5 feet or knock you prone, you can use your reaction to steady yourself. You are then neither moved nor knocked prone.
 
 ---
 
