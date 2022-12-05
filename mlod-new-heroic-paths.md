@@ -63,7 +63,7 @@ Over time, you learn to master your oversized frame and can propel yourself with
 
 - Your strength increases by 1, to a maximum of 20.
 - Your speed increases by 10
-- If you move at least 10 feet in a straight line immediately before hitting with an attack as part of the Attack Action on your turn, gain a +1d8 bonus to the attack’s damage roll and push the target up to 10 feet, provided the target you want to push is one or more sizes smaller than you. You can use this benefit only once on each of your turns.
+- If you move at least 10 feet in a straight line immediately before hitting with an attack as part of the Attack Action on your turn, you gain a +1d8 bonus to the attack’s damage roll and you can push the target up to 10 feet, provided the target you want to push is one or more sizes smaller than you. You can use this benefit only once on each of your turns.
 
 ---
 
