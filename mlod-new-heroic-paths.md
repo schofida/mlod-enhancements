@@ -27,10 +27,8 @@ Part of your heritage is your capability to become a living siege engine, throwi
 
 - Your strength increases by 1, to a maximum of 20.
 - You can pick up and throw any object or creature that is up to one size smaller than your current size (maximum size of large).
-  - For throwing objects, treat this action as a ranged attack with an improvised weapon with the thrown property. The range and damage depends on the object size category. Small objects deal 1d6 base damage, medium objects deal 1d8 base damage, and large objects deal 2d6 base damage. The range is determined by the difference between your size and the size of the object. If the size difference is 1 (e.g. your size is medium and the object size is small), the range is 20/60. If the size difference is 2 (e.g. the object is small and your size is large), the range is 50/120. If the size difference is 3 or more, the range is 90/240. The GM determines the size category of the object.
-- For objects,. As a bonus action while raging, you can choose one Medium or smaller creature within your reach and move it to an unoccupied space you can see within 30 feet of yourself. An unwilling creature must succeed on a Strength saving throw (DC equals 8 + your proficiency bonus + your Strength modifier) to avoid the effect.
-
-If, at the end of this movement, the thrown creature isn’t on a surface or liquid that can support it, the creature falls, taking damage as normal and landing prone.
+  - For throwing objects, treat this action as a single target ranged attack with an improvised weapon with the thrown property. The range and damage depends on the object size category. Small objects deal 1d6 base damage, medium objects deal 1d8 base damage, and large objects deal 2d6 base damage. The range is determined by the difference between your size and the size of the object. If the size difference is 1 (e.g. your size is medium and the object size is small), the range is 20/60. If the size difference is 2 (e.g. the object is small and your size is large), the range is 50/120. If the size difference is 3 or more, the range is 90/240. The GM determines the size category of the object.
+  - For throwing creatures, as a bonus action, you can choose one creature smaller than you (maximum large) within your reach and move it to an unoccupied space you can see within 20 feet of yourself. The range increases to 50 ft and then finally to 90 feet depending on the size difference between you and the creature. An unwilling creature can be thrown but must be grappled first. Performing this action ends the grapple. If, at the end of this movement, the thrown creature isn’t on a surface or liquid that can support it, the creature falls, taking damage as normal and landing prone.
 
 ---
 
@@ -48,9 +46,9 @@ You are now a towering presence. Growing over 8 feet tall, you are massive enoug
 - You cannot wear incorrectly-sized armor, but you can still use medium-sized weapons without penalty.
 - You suffer disadvantage on Dexterity (Sleight of Hand) and Dexterity (Stealth) skill checks.
 - You have advantage on Strength checks and Strength saving throws.
-- When you hit a target with a Melee Weapon Attack Roll and deal damage to it, you can knock that target Prone, provided your weapon has the Heavy Property and the target is one or more sizes smaller than you. This benefit can be used as many times as your proficiency bonus per long rest.
-- Once on each of your turns, one of your attacks with a melee weapon can deal an extra 1d8 damage to a target on a hit, provided your weapon has the Heavy property.
-- When making a Charisma (Intimidation) check, you can use your choice of your strength modifier instead of your charisma modifier.
+- Increase your reach by 5.
+- Once on each of your turns, one of your attacks with a weapon or an unarmed strike can deal an extra 1d8 damage to a target on a hit.
+- When making a Charisma (Intimidation) check, you can add either your strength modifier or your charisma modifier to the roll.
 
 ---
 
@@ -64,7 +62,7 @@ Over time, you learn to master your oversized frame and can propel yourself with
 
 - Your strength increases by 1, to a maximum of 20.
 - Your speed increases by 10
-- If you move at least 10 feet in a straight line immediately before hitting with a melee attack as part of the Attack Action on your turn, you gain a +1d8 bonus to the attack’s damage roll. If the target is one or more sizes smaller than you, you can also push the target up to 10 feet in addition to the extra damage. You can use this benefit only once on each of your turns.
+- If you move at least 10 feet in a straight line immediately before hitting with a melee attack or unarmed strike as part of the Attack Action on your turn, you gain a +1d8 bonus to the attack’s damage roll. If the target is one or more sizes smaller than you, you can also push the target up to 10 feet in addition to the extra damage. You can use this benefit only once on each of your turns.
 
 ---
 
@@ -77,8 +75,8 @@ _Prerequisite: Minimum level of 16 and the Unstoppable Force giantblooded heroic
 The blood of giants have fully taken hold within you, turning you into a veritable giant. You are now tall enough to reach the clouds like your long-lost ancestors. You gain the following benefits.
 
 - Your size is now huge
-- Increase your reach by 5
-- Once on each of your turns, one of your attacks with a melee weapon can deal an extra 2d6 damage to a target on a hit, provided your weapon has the Heavy property.
+- Increase your reach by an additional 5
+- Once on each of your turns, one of your attacks with a weapon or an unarmed strike can deal an extra 2d6 damage to a target on a hit.
 
 ---
 
