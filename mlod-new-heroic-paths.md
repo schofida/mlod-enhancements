@@ -13,7 +13,7 @@ _Prerequisite: Have not selected feats from a different heroic path Only humans 
 You are a massive member of your own species, but your heritage does not unlock immediately. Your body must be tempered and your blood tested before it begins to express the raw power within. You gain the following benefits:
 
 - You gain the powerful build feature where you have Advantage on any Saving Throw you make to end the Grappled condition on yourself. You also count as one size larger when determining your carrying capacity or the weight you can push, drag, or lift.
-- Once on each of your turns, one of your attacks with a melee weapon can deal an extra 1d4 damage to a target on a hit, provided your weapon has the Heavy property.
+- Once on each of your turns, one of your attacks with a weapon or an unarmed strike can deal an extra 1d6 damage to a target on a hit.
 
 ---
 
@@ -26,10 +26,11 @@ _Prerequisite: Minimum level of 4 and the Giant-Kin giantblooded heroic path fea
 Part of your heritage is your capability to become a living siege engine, throwing rocks that lesser beings would be hard put to even lift. So long as you have loose boulders, broken masonry, or even the bodies of your foes about you, you will never lack for ammunition. You gain the following benefits:
 
 - Your strength increases by 1, to a maximum of 20.
-- You gain a permanent ranged natural weapon. This weapon is strength based and provides the following damage and range:
-  - At character level 4: 1d8 30/120 ft
-  - At character level 9: 2d6 60/240 ft
-  - At character level 14: 2d8 90/360 ft
+- You can pick up and throw any object or creature that is up to one size smaller than your current size (maximum size of large).
+  - For throwing objects, treat this action as a ranged attack with an improvised weapon with the thrown property. The range and damage depends on the object size category. Small objects deals 1d8 base damage, medium objects do 2d6 base damage, and large objects deal 2d8 base damage. Large objects affect a 10' radius from where they land. The range is determined by
+- For objects, the GM has discretion on what size the object constitutes as. As a bonus action while raging, you can choose one Medium or smaller creature within your reach and move it to an unoccupied space you can see within 30 feet of yourself. An unwilling creature must succeed on a Strength saving throw (DC equals 8 + your proficiency bonus + your Strength modifier) to avoid the effect.
+
+If, at the end of this movement, the thrown creature isn’t on a surface or liquid that can support it, the creature falls, taking damage as normal and landing prone.
 
 ---
 
